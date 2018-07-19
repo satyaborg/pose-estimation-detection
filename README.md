@@ -11,6 +11,14 @@ The model is able to estimate the human poses as well as classify the current po
 **An alternative for improving the model along with deep learning is to include heuristics, in the form of calculation of the skeletal points’ relative distances from each other.**
 
  **FPS & estimation/detection varies with the CPU/GPU power.**
+ 
+### Training Examples
+
+- For sitting pose
+![alt text](/images/sitting.jpeg)
+
+- For standing pose
+![alt text](/images/standing.jpeg)
 
 ### Dependencies
 
