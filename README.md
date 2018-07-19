@@ -6,11 +6,11 @@ The model is able to estimate the human poses as well as classify the current po
 
 **An alternative for improving the model along with deep learning is to include heuristics, in the form of calculation of the skeletal points’ relative distances from each other.**
 
- **FPS & estimation/detection varies with CPU/GPU power**
+ **FPS & estimation/detection varies with the CPU/GPU power.**
 
 ### Dependencies
 
-The following was test
+The following are required :
 
 - python3
 - tensorflow 1.9.0 (works well even with CPU version)
@@ -19,9 +19,7 @@ The following was test
 - slidingwindow
   - https://github.com/adamrehn/slidingwindow
 
-### Install
-
-Clone the repo and install 3rd-party libraries.
+### Cloning & installing dependencies
 
 ```bash
 $ git clone https://github.com/SyBorg91/pose-estimation-detection
