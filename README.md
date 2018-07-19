@@ -4,6 +4,10 @@ Pose estimation & detection has been minimally implemented using the OpenPose im
 
 The model is able to estimate the human poses as well as classify the current pose to a fairly good degree of accuracy.
 
+### Demo
+
+![alt text](/images/pose_estimation.gif)
+
 **An alternative for improving the model along with deep learning is to include heuristics, in the form of calculation of the skeletal points’ relative distances from each other.**
 
  **FPS & estimation/detection varies with the CPU/GPU power.**
