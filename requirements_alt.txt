@@ -1,7 +1,7 @@
 tqdm==4.36.1
 requests==2.22.0
 tensorpack==0.9.8
-setuptools==41.2.0
+setuptools==65.5.1
 six==1.12.0
 opencv_python==4.0.0.21
 tensorflow_gpu==1.12.0
